@@ -1,3 +1,5 @@
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-orange)
+![PHP](https://img.shields.io/badge/PHP-8-blue)
 # Agora
 
 **Agora** es una aplicación móvil diseñada para crear **clubes de lectura digitales**. Permite a los usuarios crear salas privadas donde pueden debatir sobre un libro, compartir ideas y comentar capítulos sin necesidad de reunirse físicamente.
@@ -84,7 +86,7 @@ La primera versión del proyecto incluirá únicamente las funcionalidades esenc
 * Registro e inicio de sesión
 * Creación de salas
 * Unirse a salas mediante código
-* Sistema de chat dentro de cada sala
+* Sistema de debate en cada sala, separando por capítulos / partes.
 
 ---
 
@@ -102,6 +104,7 @@ Futuras funcionalidades previstas:
 ---
 
 # Estado del proyecto
+![Status](https://img.shields.io/badge/status-in_progress-yellow)
 
 Actualmente el proyecto se encuentra en **fase inicial de desarrollo**.
 
